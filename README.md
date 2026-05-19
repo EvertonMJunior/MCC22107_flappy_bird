@@ -16,6 +16,8 @@ The game follows this state machine, simplified:
     <img src="./resources/initial-state-machine.png" alt="Initial State Machine" width="500">
 </div>
 
+The requirements for the projects are stated in this [PDF](./resources/Projeto_uC_II_2026_01.pdf).
+
 ## Gameplay
 
 The game starts in the MENU state. To start it, the player must press the joystick button.
