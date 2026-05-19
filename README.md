@@ -18,6 +18,7 @@ The game follows this state machine, simplified:
 
 The requirements for the projects are stated in this [PDF](./resources/Projeto_uC_II_2026_01.pdf).
 The initial template with the project skeleton and peripherals configuration provided by the teacher is stored in this [zip file](./resources/Game_Start2_STM32F411CE.zip).
+The code for the project is stored on [src](./src/).
 
 ## Gameplay
 
