@@ -1,6 +1,6 @@
 # MCC22107 - Flappy Bird
 
-This is the repository for the Microcontrollers II discipline, at IFSC, final projects.
+This is the repository for the Microcontrollers II discipline, at IFSC, final project.
 
 It consists of a Flappy Bird game, implemented on the STM32 microcontroller, using:
 
