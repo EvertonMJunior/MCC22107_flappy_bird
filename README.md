@@ -38,3 +38,21 @@ For each obstacle passed, the player scores 1 point.
 
 If the bird collides with any of the obstacles, the game is over and the player is shown the score on the GAME_OVER state screen.
 The player can restart the game by pressing the joystick button, going to the MENU state.
+
+## Pinout
+
+The pinout of the microcontroller is the following:
+
+| Pin | Function |
+|-----|----------|
+| PA2 | Joystick X (VRX) |
+| PA1 | Joystick Y (VRY) |
+| PC15 | Joystick Button (SW) |
+| 3.3V | Joystick VCC |
+| PB3 | TFT LCD SCK |
+| PB5 | TFT LCD SDA |
+| PB14 | TFT LCD AD |
+| PB13 | TFT LCD RESET |
+| PB12 | TFT LCD CS |
+| 3.3V | TFT LCD LED |
+| 3.3V | TFT LCD VCC |
