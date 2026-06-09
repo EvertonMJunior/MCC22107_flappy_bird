@@ -195,7 +195,7 @@ int main(void)
 
 	// inicializa LCD
 
-  HAL_Delay(100);
+  HAL_Delay(1000);
   ST7735_Init();
 
   ST7735_FillScreen(ST7735_BLACK);
